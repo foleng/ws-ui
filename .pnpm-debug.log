@@ -1,0 +1,14 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "code": "ERR_PNPM_PACKAGE_JSON_EXISTS",
+    "err": {
+      "name": "pnpm",
+      "message": "package.json already exists",
+      "code": "ERR_PNPM_PACKAGE_JSON_EXISTS",
+      "stack": "pnpm: package.json already exists\n    at Object.handler [as init] (D:\\Users\\mo\\AppData\\Roaming\\nvm\\v16.6.0\\node_modules\\pnpm\\dist\\pnpm.cjs:180285:15)\n    at D:\\Users\\mo\\AppData\\Roaming\\nvm\\v16.6.0\\node_modules\\pnpm\\dist\\pnpm.cjs:182793:51\n    at async run (D:\\Users\\mo\\AppData\\Roaming\\nvm\\v16.6.0\\node_modules\\pnpm\\dist\\pnpm.cjs:182769:34)\n    at async runPnpm (D:\\Users\\mo\\AppData\\Roaming\\nvm\\v16.6.0\\node_modules\\pnpm\\dist\\pnpm.cjs:182987:5)\n    at async D:\\Users\\mo\\AppData\\Roaming\\nvm\\v16.6.0\\node_modules\\pnpm\\dist\\pnpm.cjs:182979:7"
+    }
+  }
+}
