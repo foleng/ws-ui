@@ -9,5 +9,9 @@
     },
     "keywords": [],
     "author": "",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ditaokeji/ws-ui"
+    },
     "license": "ISC"
   }
