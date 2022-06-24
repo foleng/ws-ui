@@ -1,5 +1,5 @@
 {
-  "name": "ws-ui",
+  "name": "@ws-ui/ws-cli",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@ws-ui/ws-cli": "workspace:^0.1.0"
-  }
+  "license": "ISC"
 }
