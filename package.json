@@ -1,18 +1,21 @@
-
 {
-    "name": "ws-ui",
-    "version": "0.1.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "preinstall": "npx only-allow pnpm"
-    },
-    "keywords": [],
-    "author": "",
-    "private": true,
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ditaokeji/ws-ui"
-    },
-    "license": "ISC"
+  "name": "ws-ui",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "keywords": [],
+  "author": "",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ditaokeji/ws-ui"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@changesets/cli": "^2.23.0",
+    "vite": "^2.9.13"
   }
+}
